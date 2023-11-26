@@ -2,11 +2,11 @@
 
 ___
 
-### Alunos:
+## Alunos:
 #
-Elton Gabriel, 
-Pedro Belline,
-Rogério Augusto.
+### Elton Gabriel,
+### Pedro Belline,
+### Rogério Augusto.
 
 
 ___
