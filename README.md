@@ -114,10 +114,10 @@ ___
 # Clonar repositório
 
 ## Projeto Principal:
-git clone https://github.com/xxxx
+git clone [https://github.com/xxxx](https://github.com/engeltongabriel/Sistema_Loja_Veiculos.git)
 
 ### Projeto Secundario:
-https://github.com/raa-russo/loja_carro_jframe
+git clone https://github.com/raa-russo/loja_carro_jframe
 
 ___
 # Executar o programa
