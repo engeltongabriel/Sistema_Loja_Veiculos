@@ -1,5 +1,13 @@
 # Sistema Loja de Veiculos
 
+___
+
+### Alunos:
+#
+Elton Gabriel, 
+Pedro Belline,
+Rogério Augusto.
+
 
 ___
 
