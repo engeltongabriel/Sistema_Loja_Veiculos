@@ -3,7 +3,7 @@
 ___
 
 ## Alunos:
-#
+
 #### Elton Gabriel,
 #### Pedro Belline,
 #### Rogério Augusto.
@@ -11,13 +11,13 @@ ___
 
 ___
 
-### Sobre o projeto
+## Sobre o projeto
 
 
 O Sistema de Loja de Veiculos é um projeto desenvolvido em Java, por 3 alunos, Elton Gabriel, Pedro Belline e Rogério Augusto, do curso de ADS Noite na FATEC de Mogi Mirim, sobre a orientação do Professor Marcos(Maromo). Essa aplicação consiste em  aplicar o conceito de  Programação Orientada a Objetos que foi amplamente explicado durante as Aulas de POO no quarto semestre de 2023. O projeto tem como finalidade o controle do estoque de uma loja de veiculos, fazendo inclusão, consulta, exclusão, como também um relatório em tela calculando o valor do estoque atual.
 ___
 
-### Por que JAVA ?
+## Por que JAVA ?
 
 Há várias razões pelas quais o Java é uma escolha popular para o desenvolvimento de software:
 
