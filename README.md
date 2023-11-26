@@ -43,7 +43,8 @@ Atributos e Métodos
 Visibilidade:  
 Pública [+] e  Privado [-]
 
-![img_2.png](img_2.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/6efa262b-b7e5-49a0-b591-fb3147770fcd)
+
 
 #
 
@@ -51,28 +52,30 @@ ___
 Herança:  
 Superclasse e Subclasse
 
-![img_3.png](img_3.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/c4307649-8ec1-4ab6-9fe7-d6bed169b310)
+
+
 
 #
 
 ___
 Método construtor:
 
-![img_4.png](img_4.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/3e29f8e1-060b-4997-9ea7-5256394f9dbb)
+
 
 ___
 Classe Scanner:
 
 A classe Scanner permite a leitura de tipos de dados primitivos e String:
 
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/482043fa-f1ba-473f-b834-616901cf8c59)
 
 ___
 Método Arrays:
 
-![img_7.png](img_7.png)
-![img_8.png](img_8.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/62a8578e-1b47-4900-b777-9d1b541265c8)
+
 
 #
 ___
@@ -80,7 +83,8 @@ ___
 
 # Modelo conceitual
 
-![img_1.png](img_1.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/0ad7d92d-9f33-4764-9023-1c073217fbeb)
+
 
 # 
 
@@ -133,44 +137,50 @@ ___
 ___
 Tela Inicial com as opções da Aplicação:
 
-![img_9.png](img_9.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/dde34d0a-a5a3-4b0a-b40b-ed204e8dea60)
+
 
 
 ___
 Fluxo para ADICIONAR um veiculo:
 
-![img_10.png](img_10.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/ab81797f-9d32-4f9a-b29a-0a91021e3678)
+
 
 ___
 Fluxo para REMOVER um veiculo:
 
-![img_13.png](img_13.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/c0ceb239-9021-4ed7-8790-5bf8765cdc85)
+
 
 ___
 Fluxo para LISTAR veiculos:
 
-![img_11.png](img_11.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/e91844bc-3cb6-4366-8b89-def61e761292)
+
 
 ___
 Fluxo para CALCULAR VALOR TOTAL do estoque:
 
-![img_12.png](img_12.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/9a73c107-d78a-4ad8-9a62-3f1a6361e050)
+
 ___
 Fluxo para ENCERRAR O PROGRAMA:
 
-![img_14.png](img_14.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/a5fbeb7e-f0b5-469b-9e73-592467d12424)
+
 ___
 
 ## Mensagens de retorno para dados não econtrados:
 
-![img_17.png](img_17.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/84e8a7b5-eb08-464a-b0c0-0ae6a317f2bf)
 
-![img_18.png](img_18.png)
 #
 ___
 ## Mensagens de erro:
 
-![img_16.png](img_16.png)
+![image](https://github.com/engeltongabriel/Sistema_Loja_Veiculos/assets/83319090/500e11c4-de50-4f95-8077-5dba23a509e7)
+
 
 
 ---
